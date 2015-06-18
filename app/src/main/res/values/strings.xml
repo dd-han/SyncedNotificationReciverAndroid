@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SyncedNotification</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="UI_MainTitle">通知項目</string>
+    <string name="UI_MainUpdate">更新</string>
+</resources>
